@@ -175,11 +175,11 @@ header {
   .timeline ul li .content h2 {
     text-align: initial;
   }
-  .timeline ul li:nth-child(even) .content {
+ .timeline ul li:nth-child(even) .content {
     left: 45px;
     background: #67CC8E;
-    background: -webkit-linear-gradient(-45deg, #56BC83, #67CC8E);
-    background: linear-gradient(-45deg, #56BC83, #67CC8E);
+    background: -webkit-linear-gradient(-45deg, #1a9cd4, #05cbcb);
+    background: linear-gradient(-45deg, #1a9cd4, #05cbcb);
   }
   .timeline ul li:nth-child(even) .content:before {
     left: -33px;
