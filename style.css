@@ -22,21 +22,10 @@ body {
     margin-bottom: 0;
   }
   
-  @media screen and (max-width: 460px) {
+  @media (max-width: 460px) {
     h1 {
       font-size: 3.5rem;
       line-height: 1.2;
-    }
-    #image{
-      height: 360px;
-      width:  460px;
-  }
-    header{ 
-      position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1;
-    background-color: #00aed1;
     }
   }
   
@@ -186,7 +175,7 @@ header {
   .timeline ul li .content h2 {
     text-align: initial;
   }
- .timeline ul li:nth-child(even) .content {
+  .timeline ul li:nth-child(even) .content {
     left: 45px;
     background: #67CC8E;
     background: -webkit-linear-gradient(-45deg, #1a9cd4, #05cbcb);
@@ -195,13 +184,15 @@ header {
   .timeline ul li:nth-child(even) .content:before {
     left: -33px;
   }
-  header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1;
-    background-color: #00aed1;
+  
 }
+@media screen and (max-width: 480px ){
+  #image{
+    height: 480px;
+    width:480px;
+
+}
+  
 }
 
 /*awards styling*/
