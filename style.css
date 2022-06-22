@@ -184,10 +184,13 @@ header {
   .timeline ul li:nth-child(even) .content:before {
     left: -33px;
   }
-  #image{
-    height: 150px;
-    width: 200px;
-  }
+  header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: #00aed1;
+}
 }
 
 /*awards styling*/
