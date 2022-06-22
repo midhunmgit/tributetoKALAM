@@ -22,7 +22,7 @@ body {
     margin-bottom: 0;
   }
   
-  @media (max-width: 460px) {
+  @media screen and (max-width: 480px) {
     h1 {
       font-size: 3.5rem;
       line-height: 1.2;
@@ -189,7 +189,8 @@ header {
 @media screen and (max-width: 480px ){
   #image{
     height: 480px;
-    width:480px;
+    width:480px:
+  padding: 20px;
 
 }
   
