@@ -184,6 +184,10 @@ header {
   .timeline ul li:nth-child(even) .content:before {
     left: -33px;
   }
+  #image{
+    height: 150px;
+    width: 200px;
+  }
 }
 
 /*awards styling*/
