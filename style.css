@@ -192,8 +192,11 @@ header {
     width: 480px;
   padding: 20px;
 }
-  #title p{
+  .tagline p{
     text-align:center ;
+  }
+  .content p{
+    text-align: center; 
   }
   
 }
