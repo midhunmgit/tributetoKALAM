@@ -25,12 +25,11 @@ body {
   @media screen and (max-width: 460px) {
     h1 {
       line-height: 1;
-      font-size:small;
+      font-size: 2rem;
     }
     #image{
       height: 360px;
-      width:  360px;
-      justify-content: space-around;
+      width:  460px;
 
 
   }
