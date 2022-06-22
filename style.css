@@ -189,10 +189,12 @@ header {
 @media screen and (max-width: 480px ){
   #image{
     height: 480px;
-    width:480px:
+    width: 480px;
   padding: 20px;
-
 }
+  #title p{
+    text-align:center ;
+  }
   
 }
 
