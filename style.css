@@ -24,14 +24,14 @@ body {
   
   @media screen and (max-width: 460px) {
     h1 {
-      font-size: 3.0rem;
-      line-height: 1.0;
+      line-height: 0.8;
+      font-size:medium;
     }
     #image{
       height: 360px;
       width:  360px;
       justify-content: space-around;
-      font-size:medium;
+
 
   }
   }
