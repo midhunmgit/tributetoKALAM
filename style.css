@@ -191,6 +191,7 @@ header {
     height: 480px;
     width: 480px;
   padding: 20px;
+    justify-content: center;
 }
   .tagline p{
     text-align:center ;
