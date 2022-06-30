@@ -203,7 +203,16 @@ header {
   width: 100%;
   z-index: 1;
   background-color: #00aed1;
-  display: none;
+}
+
+.award {
+  width: 330px;
+  padding: 10px;
+  margin: 25px 0px;
+  background-color: #12cdee;
+  border-radius: 12px;
+  box-shadow: 5px 10px 14px rgba(81, 82, 82, 0.4);
+  display:inline-block;
 }
 }
 
