@@ -24,14 +24,7 @@ body {
     color: #128fee;
 
   }
-  
-  @media (max-width: 460px) {
-    h1 {
-      font-size: 3.5rem;
-      line-height: 1.2;
-    }
-  }
-  
+
   h2 {
     font-size: 3.25rem;
   }
@@ -189,8 +182,8 @@ header {
 }
 @media  (max-width: 572px ){
   #image{
-    height: 480px;
-    width:480px;
+    height: 350px;
+    width:350px;
     padding:20px;
     justify-content: center;
 }
@@ -203,6 +196,7 @@ body {
   margin-top:10%;
   background-color: #faf8eb;
 }
+
 }
 
 /*awards styling*/
