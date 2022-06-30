@@ -182,8 +182,8 @@ header {
 }
 @media  (max-width: 572px ){
   #image{
-    height: 300px;
-    width:300px;
+    height: 330px;
+    width:330px;
     padding:20px;
     justify-content: center;
 }
