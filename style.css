@@ -182,18 +182,18 @@ header {
 }
 @media  (max-width: 572px ){
   #image{
-    height: 350px;
-    width:350px;
+    height: 300px;
+    width:300px;
     padding:20px;
     justify-content: center;
 }
 body {
   font-family: Arial;
-  font-size: 1rem;
+  font-size: 25px;
   line-height: 1.5;
   text-align: center;
   color: #333;
-  margin-top:10%;
+  margin-top:12%;
   background-color: #faf8eb;
 }
 
