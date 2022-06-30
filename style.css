@@ -214,7 +214,7 @@ header {
   box-shadow: 5px 10px 14px rgba(81, 82, 82, 0.4);
   display:inline-block;
 }
-.video{
+iframe {
   width: 250;
   height: 300;
 }
