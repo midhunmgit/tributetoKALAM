@@ -13,7 +13,7 @@ body {
     line-height: 1.5;
     text-align: center;
     color: #333;
-    margin-top:5%;
+    margin-top:3%;
     background-color: #faf8eb;
   }
   
@@ -193,6 +193,15 @@ header {
     width:480px;
     padding:20px;
     justify-content: center;
+}
+body {
+  font-family: Arial;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin-top:10%;
+  background-color: #faf8eb;
 }
 }
 
