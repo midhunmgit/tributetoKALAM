@@ -49,7 +49,7 @@ header {
     padding: 0;
 }
 
-.overlay-content a, .openbtn, .closebtn {
+.overlay-content a {
     color: rgb(0, 0, 0);
     padding: 10px 20px;
     font-size: 20px;
@@ -157,7 +157,7 @@ header {
 /* -------------------------
    ----- Media Queries ----- 
    ------------------------- */
-@media screen and (max-width: 1020px) {
+@media (max-width: 1020px) {
   .timeline ul li .content {
     width: 41vw;
   }
@@ -166,7 +166,7 @@ header {
     left: calc(-41vw - 45px);
   }
 }
-@media screen and (max-width: 700px) {
+@media (max-width: 700px) {
   .timeline ul li {
     margin-left: 20px;
   }
@@ -187,20 +187,13 @@ header {
   }
   
 }
-@media screen and (max-width: 572px ){
+@media  (max-width: 572px ){
   #image{
     height: 480px;
     width:480px;
     padding:20px;
     justify-content: center;
 }
-.tagline p{
-  text-align:center ;
-}
-.content p{
-  text-align:center ;
-}
-
 }
 
 /*awards styling*/
