@@ -36,11 +36,7 @@ header {
     z-index: 1;
     background-color: #00aed1;
 }
-.overlay {
-    width: 50%;
-    margin: 0 auto;
-    padding: 0;
-}
+
 
 .overlay-content a {
     color: rgb(0, 0, 0);
@@ -208,7 +204,7 @@ header {
   background-color: #00aed1;
 }
 
-.award {
+#awards {
   width: px;
   padding: 0px;
   margin: 2px 0px;
