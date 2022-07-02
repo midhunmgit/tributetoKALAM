@@ -181,6 +181,9 @@ header {
   
 }
 @media  (max-width: 572px ){
+p{
+  font-size: small;
+}
   #image{
     height: 350px;
     width:350px;
@@ -206,18 +209,19 @@ header {
 }
 
 .award {
-  width: 330px;
+  width: px;
   padding: 0px;
-  margin: 25px 0px;
+  margin: 10px 0px;
   background-color: #12cdee;
   border-radius: 12px;
   box-shadow: 5px 10px 14px rgba(81, 82, 82, 0.4);
   display:inline-block;
 }
-iframe {
+.video {
   width: 250;
   height: 300;
 }
+
 }
 
 /*awards styling*/
@@ -246,6 +250,7 @@ iframe {
     height: 150px;
     width: 200px;
 }
+/*video styling*/
 .video {
   padding: 0 35px 0 0;
   margin: 25px 10px;
