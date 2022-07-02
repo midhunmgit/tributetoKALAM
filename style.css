@@ -201,9 +201,10 @@ header {
   background-color: #00aed1;
 }
 
-#row {
+.award {
   width: 350px;
   padding: 10px;
+  margin-right: 0;
   background-color: #12cdee;
   border-radius: 12px;
   box-shadow: 5px 10px 14px rgba(81, 82, 82, 0.4);
