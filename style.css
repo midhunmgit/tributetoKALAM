@@ -177,10 +177,7 @@ header {
   
 }
 @media  (max-width: 572px ){
-p{
-  font-size: small;
-}
-  #image{
+#image{
     height: 350px;
     width:350px;
     padding:20px;
@@ -205,18 +202,14 @@ header {
 }
 
 #awards {
-  width: px;
-  padding: 0px;
-  margin: 2px 0px;
+  width: 350px;
+  padding: 10px;
   background-color: #12cdee;
   border-radius: 12px;
   box-shadow: 5px 10px 14px rgba(81, 82, 82, 0.4);
   display:inline-block;
 }
-.video {
-  width: 250;
-  height: 300;
-}
+
 .overlay-content a {
   color: rgb(0, 0, 0);
   padding: 10px 10px;
