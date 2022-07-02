@@ -200,12 +200,13 @@ header {
   z-index: 1;
   background-color: #00aed1;
 }
-
-#awards{
-  margin-right: 0px;
-  margin-left: 0px;
-  padding: 10px;
+#row {
+  justify-content: space-around;
+  margin: 20px 0px 20px 0px;
+  padding-bottom: 40px;
 }
+
+
 
 .overlay-content a {
   color: rgb(0, 0, 0);
