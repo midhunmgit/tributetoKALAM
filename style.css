@@ -178,7 +178,7 @@ header {
 }
 @media  (max-width: 572px ){
   #title{
-    font-size: medium;
+    font-size: 50em;
   }
 #image{
     height: 350px;
@@ -204,7 +204,7 @@ header {
   background-color: #00aed1;
 }
 #row {
-  justify-content: space-around;
+  justify-content: left;
   margin: 20px -60px 20px -10px;
   padding-bottom: 40px;
   
