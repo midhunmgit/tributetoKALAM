@@ -178,7 +178,7 @@ header {
 }
 @media  (max-width: 572px ){
   #title{
-    font-size: 2em;
+    font-size: 1.5em;
   }
 #image{
     height: 350px;
