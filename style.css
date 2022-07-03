@@ -273,8 +273,9 @@
       font-weight: bold;
     }
     .video iframe{
-      width: 280;
-      height: 330;
+      width: 250;
+      height: 300;
+      margin: 0;
     }
     .video p{
       font-size: 25px;
