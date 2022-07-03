@@ -247,7 +247,7 @@ footer span a:hover{
     background-color: #faf8eb;
   }
   #awards{
-    justify-content: right;
+    box-align: right;
   }
   header {
     position: fixed;
