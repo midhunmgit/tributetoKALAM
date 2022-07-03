@@ -237,6 +237,9 @@
     .timeline ul li .content p {
       text-align: center;
     }
+    .timeline ul li .content h2 {
+      text-align: center;
+    }
     body {
       font-family: Arial;
       font-size: 1rem;
@@ -269,5 +272,8 @@
       font-size: 15px;
       font-weight: bold;
     }
-    
+    .video{
+      width: 300;
+      height: 350;
+    }
     }
