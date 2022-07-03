@@ -273,8 +273,8 @@
       font-weight: bold;
     }
     .video iframe{
-      width: 150;
-      height: 200;
+      width: 100%;
+      height: 400px;
       margin: 0;
     }
     .video p{
